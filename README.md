@@ -134,12 +134,6 @@ Visit the generated **Ngrok URL** to open your live colorful web app 🎨.
 
 ---
 
-## 📸 UI Preview
-
-Below is a preview of your beautiful Flask UI:
-
-![App Screenshot](https://cdn-icons-png.flaticon.com/512/3135/3135715.png)
-
 ---
 
 ## 📂 Folder Structure
