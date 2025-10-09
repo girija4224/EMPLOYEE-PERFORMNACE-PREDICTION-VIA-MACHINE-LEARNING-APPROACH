@@ -199,6 +199,3 @@ github-girija4224
 ✅ Fully functional Flask integration
 ✅ Ready for Colab deployment
 
----
-
-Would you like me to **generate a small `requirements.txt`** file that matches your Colab environment (so you can upload both together to GitHub)?
